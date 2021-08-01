@@ -1,10 +1,10 @@
 ## Navbar
 - [Product Api Collection](#product-api-collection)
-- - - [Get Products](###get-products)
-- - - [Grab Single Product](###get-single-product)
-- - - [Add New Product ](###add-new-product)
-- - - [Update Existing Product](###update-existing-product)
-- - - [Delete Existing Product](###delete-existing-product)
+- - [Get Products](###get-products)
+- - [Grab Single Product](###get-single-product)
+- - [Add New Product ](###add-new-product)
+- - [Update Existing Product](###update-existing-product)
+- - [Delete Existing Product](###delete-existing-product)
 
 # Product Api Collection
 You need to get the <strong>token</strong> from our <strong>service</strong> page to get access to Product Api Collection.
